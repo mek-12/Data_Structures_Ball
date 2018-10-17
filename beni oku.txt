@@ -1,0 +1,5 @@
+----Öneri----
+Ödevde belirtilen sýnýflara göre proje oluþturuldu.
+Test.cpp ana dosyada çok fazla kalabalýk iþlem yapýldý.
+Eðer ödevde belirtilseydi. Ayriyetten nu iþlemlerin fonksiyon ve gövdelerini ana fonksiyondan kaldýrmak istiyorsak
+Ýkinci bir Ýslem.cpp dosyasý oluþturulabilirdi. Saygýlar.
